@@ -43,9 +43,9 @@ Nodes:
           ProxyProtocolVer: 0 # Send PROXY protocol version, 0 for disable
       CertConfig:
         CertMode: file # Option about how to get certificate: none, file, http, tls, dns. Choose "none" will forcedly disable the tls config.
-        CertDomain: "US-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz" # Domain to cert
-        CertFile: /home/ssl/US-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz/1.pem # Provided if the CertMode is file
-        KeyFile: /home/ssl/US-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz/1.key
+        CertDomain: "US1-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz" # Domain to cert
+        CertFile: /home/ssl/US1-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz/1.pem # Provided if the CertMode is file
+        KeyFile: /home/ssl/US1-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz/1.key
 # -------------------------------------------------------
   - PanelType: "NewV2board" # Panel type: SSpanel, NewV2board, PMpanel, Proxypanel, V2RaySocks, GoV2Panel
     ApiConfig:
@@ -75,6 +75,6 @@ Nodes:
           ProxyProtocolVer: 0 # Send PROXY protocol version, 0 for disable
       CertConfig:
         CertMode: file # Option about how to get certificate: none, file, http, tls, dns. Choose "none" will forcedly disable the tls config.
-        CertDomain: "US-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz" # Domain to cert
-        CertFile: /home/ssl/US-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz/1.pem # Provided if the CertMode is file
-        KeyFile: /home/ssl/US-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz/1.key
+        CertDomain: "US1-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz" # Domain to cert
+        CertFile: /home/ssl/US1-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz/1.pem # Provided if the CertMode is file
+        KeyFile: /home/ssl/US1-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz/1.key
