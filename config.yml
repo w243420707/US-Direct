@@ -19,7 +19,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://shiyuanyinian.xyz"
       ApiKey: "yE4ZvHiqQQHdYPdv"
-      NodeID: 111
+      NodeID: 11
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
@@ -56,7 +56,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://flywhaler.com"
       ApiKey: "yE4ZvHiqQQHdYPdv"
-      NodeID: 104
+      NodeID: 368
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
@@ -94,7 +94,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://main.passwalls.com"
       ApiKey: "yE4ZvHiqQQHdYPdv"
-      NodeID: 9
+      NodeID: 10
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
@@ -131,7 +131,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://backup.passwalls.com"
       ApiKey: "yE4ZvHiqQQHdYPdv"
-      NodeID: 6
+      NodeID: 10
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
